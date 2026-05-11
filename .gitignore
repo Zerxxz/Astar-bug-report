@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+.env
+*.log
+
+# PoC outputs
+output/
+
+# foundry
+out/
+cache/
+broadcast/
